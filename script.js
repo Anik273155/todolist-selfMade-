@@ -18,7 +18,7 @@ button.addEventListener('click',function(){
    para.appendChild(node);
 
 
-    input.value="";
+    input.value="";//after adding task input box will get empty
 
 
 
