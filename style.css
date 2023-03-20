@@ -1,0 +1,62 @@
+body{
+    background-color:rgb(180, 164, 164);
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+
+}
+.container{
+ 
+    margin-top:15%;
+    width:270px;
+    height:50vh;
+    border:2px solid rgb(8, 8, 8);
+    background-color: beige;
+    border-radius:5px;
+}
+#input{
+    margin-top:20px;
+    padding:10px 8px ;
+    border-radius: 5px;
+ font-size:bold;
+}
+#addToDo{
+    padding:9px ;
+    border-radius: 5px;
+    margin:5px;
+    color:white;
+    background-color:blue;
+
+}
+#addTaskDiv{
+ align-items: start;
+ text-align: left;
+ margin:0 15px;
+ border-radius:5px;
+ 
+ 
+}
+
+
+
+.deletePara{
+    background-color: red;
+   
+   margin-top:5px;
+    color:white;
+   
+ 
+    
+}
+.mypara{
+    border:1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 0;
+    box-shadow: 0 5px 10px rgb(233, 125, 125) ;
+       padding-left:7px;
+       padding:5px;
+}
